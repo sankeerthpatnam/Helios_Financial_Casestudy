@@ -1,46 +1,48 @@
-Helios – Hypothetical Case Study
-Helios is a hypothetical company used for a financial and strategic case study. It does not exist in reality. This project is designed to showcase financial modeling, scenario analysis, and strategic decision making skills in a heavy R&D technology enverionment. 
+Helios Case Study for Hydrogen Storage and Fueling
 
-About Helios
+Welcome to the Helios Case Study. This project explores a hypothetical hydrogen startup focused on solving a major challenge in hydrogen adoption. The company works on storing and fueling liquid hydrogen with almost no loss.
 
-Helios is a pre-product hydrogen startup focused on solving a major challenge in liquid hydrogen (LH2) technology: efficient production, near zero loss storage, and precise fueling. The company’s technology is aimed at military, NASA, and Space Force applications, including vehicles, rockets, planes, and large land mobility platforms.
+Helios develops advanced cryogenic tanks and fueling systems. The team uses an AI simulation engine to understand how hydrogen behaves under pressure and extreme temperatures. This case study shows strategic thinking, financial modeling, and scenario analysis for a pre-product hydrogen technology company.
 
-Core products and technology include:
+What is in this Repository
 
-1. LH2 production systems that convert water to hydrogen and then to liquid hydrogen, with potential improvements to increase efficiency and reduce energy loss
+Financial_Model.xlsx. A five-year financial model with scenario options.
+You can switch between Bull, Base, and Bear scenarios.
+Revenue comes from LH2 tanks, fueling systems, and experimental contracts.
+The model includes cost of goods sold, operating expenses, capital expenditures, headcount plan, and full three-statement outputs.
 
-2. Large-scale LH2 storage systems for fuel generators
+Executive_Summary.pdf. A report summarizing strategy, roadmap, and financial highlights.
 
-3. Miniaturized LH2 storage for vehicles
+Scenario_Dashboard.png. Optional charts showing revenue, gross margin, and burn rate for each scenario.
 
-4. LH2 fueling and transfer systems, including pipes and fueling stations.
-5. An interface managing all of these hydrogen interactions. 
+Assumptions.txt. Reference for technical and financial assumptions.
 
-Pain Point Being Solved: The main challenge is that current LH2 storage experiences significant boil-off, which results in fuel loss over time. Helios aims to develop highly efficient storage and transfer systems with minimal loss, while also improving the LH2 generation process itself to make production more efficient and reliable. These improvements are critical for advanced propulsion applications.
+LICENSE. Open source license for the repository.
 
-Business Model and Strategy
+Highlights
 
-Revenue comes primarily from military and space agency contracts and R&D grants. The company has heavy initial investment in research and development and manufacturing. The strategic focus includes:
+The scenario switch lets you see how different outcomes affect revenue, margins, and net income.
 
-Solving the fundamental LH2 efficiency problem in production, storage, and fueling
+Early years focus on building the AI simulation and prototyping tanks and fueling systems.
 
-Scaling manufacturing of storage tanks and miniaturized systems
+The strategy is to focus on tanks first and then move to vehicle integration. The company targets DoD, NASA, and early industrial adopters.
 
-Exploring long-term applications for propulsion across air, water, land, and space
+Technology assumptions are ambitious. LH2 boil-off is under 0.2 percent daily and designs are optimized for efficiency and scalability.
 
+How to Use
 
-Financial Model Overview: 
+Open Financial_Model.xlsx.
 
-This repository contains a financial model for Helios, designed to illustrate:
+Go to the scenario switch cell and pick Bull, Base, or Bear.
 
-Five year projections for revenue, costs, and net income
+Explore the revenue projections, cost breakdowns, and KPIs dashboard.
 
-Scenario driven modeling with Bull, Base, and Bear cases
+Review Executive_Summary.pdf for more context on assumptions and strategy.
 
-Unit based and growth-rate revenue methods
+Purpose of this Project
 
-CapEx and R&D investment analysis
+This case study is meant to show advanced financial modeling with multiple scenarios and full three-statement projection.
 
-Strategic insights based on different funding, technology, and production scenarios
+It demonstrates strategic thinking in technology adoption and R&D planning.
 
-The Excel model includes tabs for assumptions, forecast, CapEx and production, scenario analysis, and strategic insights such as charts and breakeven analysis.
+It also shows an understanding of hydrogen technology and infrastructure challenges.
