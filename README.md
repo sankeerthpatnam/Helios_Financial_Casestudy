@@ -23,6 +23,8 @@ The strategy is to focus on tanks first and then move to vehicle integration. Th
 
 Technology assumptions are ambitious. LH2 boil-off is under 0.1 percent daily and designs are optimized for efficiency and scalability.
 
+There are some basic assumptions such as PPE not modulating anually along with CapEx being consistent. 
+
 How to Use
 
 Open Financial_Model.xlsx.
