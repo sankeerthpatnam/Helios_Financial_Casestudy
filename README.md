@@ -27,7 +27,7 @@ There are some basic assumptions such as PPE not modulating anually along with C
 
 How to Use
 
-Open Financial_Model.xlsx.
+Open Helios_Financial_Model.xlsx.
 
 Go to the scenario switch cell and pick Bull, Base, or Bear.
 
